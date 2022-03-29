@@ -10,7 +10,6 @@
   font-family: Verdana;
   font-weight: 900;
   text-transform: uppercase;
-
 }
 
 .magazine2 {
@@ -35,7 +34,7 @@
   padding: 15px;
 }
 
-.rotaleft {
+.rotateleft {
   transform: rotate(-5deg);
 }
 
@@ -43,3 +42,10 @@
   transform: rotate(5deg);
 }
 
+.skewleft {
+  transform: skew(10deg);
+}
+
+.skewright {
+  transform: skew(-10deg);
+}
